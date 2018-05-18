@@ -1,0 +1,48 @@
+.icerik img{
+  width: 250px;
+  height: 250px;
+  padding: 40px;
+}
+.search{
+  margin-top: 30px;
+  text-align: center;
+}
+.logo img{
+  width: 300px;
+  height: 100px;
+}
+.footer{
+  text-align: center;
+}
+.metin{
+  width: 90%;
+  margin: 10px auto;
+  height: 150px;
+  padding-left: 400px;
+}
+
+.metin{
+  font-family: "Times New Roman", Times, serif;
+  font-style: oblique;
+  font-size: 32px;
+}
+.menu{
+	position: relative;
+	bottom: 100px;
+	left: 30px;
+}
+
+.menu{
+	font-size: 20px;
+	font-family: "Times New Roman", Times, serif;
+
+}
+
+.baslik{
+	color: blue;
+}
+
+
+.govde {
+ background-color: #C0C0C0;
+}
